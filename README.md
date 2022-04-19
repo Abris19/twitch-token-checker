@@ -1,2 +1,2 @@
-# twitch token checker
+# Twitch Token Checker
 by oxyn
